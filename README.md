@@ -26,14 +26,17 @@ HTML · CSS · JavaScript
 
 ## Интерфейс
 
-![Интерфейс приложения на демонстрационных данных](docs/screenshots/desktop.png)
+### Первый экран
 
-<details>
-<summary>Мобильный экран и другие разделы</summary>
+![Первый экран](docs/screenshots/desktop.png)
 
-![mobile](docs/screenshots/mobile.png)
+### Раздел услуг
 
-</details>
+![Раздел услуг](docs/screenshots/detail-1.jpg)
+
+### Мобильная версия
+
+![Мобильная версия](docs/screenshots/mobile.png)
 
 ## Запуск
 
